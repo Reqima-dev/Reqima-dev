@@ -1,8 +1,12 @@
+# 🏄‍♂️ Adlou A. KONDO
+
 ![Header](images/header.jpg)
 
 **`Digital Craftsman (Developer/Creator)`**
 
 ### Hi there 👋
+
+I am an independent full-stack developer and content creator who has taken my version of the digital world one step at a time. All coding projects are integrated from scratch, from planning and design to solving real problems with code.
 
 <!--
 **Reqima-dev/Reqima-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
