@@ -19,6 +19,8 @@ I am an independent full-stack developer and content creator who has taken my ve
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Reqima-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
+---
+
 <!--
 **Reqima-dev/Reqima-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
