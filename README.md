@@ -36,6 +36,16 @@ I am an independent full-stack developer and content creator who has taken my ve
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />  
 <br />
 
+
+#
+
+### 📊 Stats
+
+![Reqima-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reqima-dev&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Reqima-dev&theme=gruvbox&border_radius=4.5) -->
+
+#
 <!--
 **Reqima-dev/Reqima-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
