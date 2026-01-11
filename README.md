@@ -1,4 +1,4 @@
-# 🏄‍♂️ Abdul A. KONDO
+# Abdul A. KONDO
 
 ![Header](images/bann.png)
 
